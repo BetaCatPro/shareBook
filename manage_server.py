@@ -3,8 +3,8 @@ from flask_migrate import Migrate, MigrateCommand
 
 from fisher import app
 
-# app.config[
-#     'SQLALCHEMY_DATABASE_URI'] = 'mysql+cymysql://root:123456@localhost/fisher'
+app.config[
+    'SQLALCHEMY_DATABASE_URI'] = 'mysql+cymysql://root:7insummer@localhost/fisher'
 
 from app.models import db
 
