@@ -1,10 +1,4 @@
-# error code description
+#项目基于慕课网 Python Flask高级编程
 
-## start with 1
-means common exception
-10000 : parameter exception
-10080 : email that used to register has been taken
-10081 : nickname that used to register has been taken
+地址： https://coding.imooc.com/class/194.html
 
-## start with 2
-means user exception
